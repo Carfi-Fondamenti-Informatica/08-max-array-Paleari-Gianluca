@@ -1,9 +1,5 @@
 
 #include "lib.h"
-
-
-
-
 float max(const float array[], int d) {
     int m, i;
     m = array[0];
