@@ -1,4 +1,4 @@
 
-float max(const float array[],int d);
+float max(float array[],int d);
   
    
