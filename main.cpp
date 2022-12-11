@@ -5,13 +5,13 @@ using namespace std;
 
 int main() {
     int a, c;
-    
+
     cin >> a;
     float array[a];
     for (int i = 0; i < a; i++) {
 
 
-        
+
         cin >> array[i];
     }
 
@@ -21,4 +21,3 @@ int main() {
     return 0;
 
 }
- 
