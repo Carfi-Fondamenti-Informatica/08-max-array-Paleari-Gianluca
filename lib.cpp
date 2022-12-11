@@ -1,6 +1,4 @@
-
 #include "lib.h"
-#include <iostream>
 
 float max(const float array[], int d) {
     int m, i;
