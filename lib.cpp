@@ -1,6 +1,9 @@
 #include "lib.h"
 
-float max(float array[],int d) {
+
+
+
+float max(const float array[], int d) {
     int m, i;
     m = array[0];
     for (i = 1; i < d; i++) {
